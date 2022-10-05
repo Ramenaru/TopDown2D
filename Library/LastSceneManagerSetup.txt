@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Troll Bridge Studios/2D Starter Kit/_Scenes/Demos/Demo Start.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
